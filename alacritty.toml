@@ -1,4 +1,4 @@
-import = ["/home/ben/.config/alacritty/catppuccin/catppuccin-mocha.yml"]
+import = ["/home/ben/.config/alacritty/catppuccin/catppuccin-mocha.toml"]
 
 [cursor.style]
 blinking = "On"
